@@ -169,7 +169,7 @@ export default {
   }
 
   html, body {
-  font-family: "RobotoCondensed-Regular", sans-serif;
+    font-family: "RobotoCondensed-Regular", sans-serif;
 }
   .footer-content {
     font-family: "RobotoCondensed-Regular", sans-serif;
@@ -186,19 +186,5 @@ export default {
     position: absolute;
     left: calc(50% - 150px);
     bottom: -150px;
-  }
-
-  .title-col {
-    display: flex;
-    flex-direction: column;
-    width: auto;
-    height: auto;
-    justify-content: center;
-    align-items: flex-start;
-  }
-
-  .nomargin {
-    margin: 0;
-    user-select: none;
   }
 </style>
