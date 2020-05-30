@@ -1,24 +1,12 @@
-# student-website-1
+# Student-teacher website
 
-## Project setup
-```
-npm install
-```
+Just a friend asked to do :D
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Using:
+- Vue SPA
+- Vuetify
+- Travis CI
+- Semantic Release
+- Github Pages
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Build to the docs folder for publishing on Github Pages

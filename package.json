@@ -2,10 +2,19 @@
   "name": "student-website-1",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauloVernetti/student-website-1.git"
+  },
+  "author": {
+    "url": "https://github.com/PauloVernetti/",
+    "name": "Paulo Vernetti",
+    "email": "vernetti@kenift.com"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "test:unit": "vue-cli-service test:unit"
+    "release": "semantic-release"
   },
   "dependencies": {
     "@babel/polyfill": "^7.4.4",
@@ -18,6 +27,9 @@
   },
   "devDependencies": {
     "@mdi/font": "^3.9.97",
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/exec": "^5.0.0",
+    "@semantic-release/git": "^9.0.0",
     "@vue/cli-plugin-babel": "~4.4.0",
     "@vue/cli-plugin-router": "~4.4.0",
     "@vue/cli-plugin-unit-jest": "~4.4.0",
@@ -26,6 +38,7 @@
     "@vue/test-utils": "^1.0.3",
     "less": "^3.0.4",
     "less-loader": "^5.0.0",
+    "semantic-release": "^17.0.8",
     "vue-cli-plugin-vuetify": "~2.0.5",
     "vue-template-compiler": "^2.6.11"
   },
