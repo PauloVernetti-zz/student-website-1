@@ -44,6 +44,7 @@
       </v-row>
     </v-app-bar>
     <v-navigation-drawer
+            app
             v-model="drawer"
             fixed
             dark
