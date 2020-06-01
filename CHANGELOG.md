@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/PauloVernetti/student-website-1/compare/v1.1.2...v1.2.0) (2020-06-01)
+
+
+### Features
+
+* **Articles:** adding articles with parallax ([c3f8213](https://github.com/PauloVernetti/student-website-1/commit/c3f821357b4148fcaaf2b3a5146d5b729a371ebb))
+
 ## [1.1.2](https://github.com/PauloVernetti/student-website-1/compare/v1.1.1...v1.1.2) (2020-05-31)
 
 
