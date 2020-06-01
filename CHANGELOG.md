@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/PauloVernetti/student-website-1/compare/v1.1.1...v1.1.2) (2020-05-31)
+
+
+### Bug Fixes
+
+* **overflow:** fixing horizontal overflow ([0f412eb](https://github.com/PauloVernetti/student-website-1/commit/0f412ebb017699b6fea8599888896d936361aaca))
+
 ## [1.1.1](https://github.com/PauloVernetti/student-website-1/compare/v1.1.0...v1.1.1) (2020-05-31)
 
 
