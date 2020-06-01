@@ -1,3 +1,17 @@
+# [1.3.0](https://github.com/PauloVernetti/student-website-1/compare/v1.2.2...v1.3.0) (2020-06-01)
+
+
+### Features
+
+* **Articles:** changing format to cards instead of parallax ([d17c958](https://github.com/PauloVernetti/student-website-1/commit/d17c958918dd9ec48f024d4eda1006b05ed2841d))
+
+# [1.3.0](https://github.com/PauloVernetti/student-website-1/compare/v1.2.2...v1.3.0) (2020-06-01)
+
+
+### Features
+
+* **Articles:** changing format to cards instead of parallax ([d17c958](https://github.com/PauloVernetti/student-website-1/commit/d17c958918dd9ec48f024d4eda1006b05ed2841d))
+
 ## [1.2.2](https://github.com/PauloVernetti/student-website-1/compare/v1.2.1...v1.2.2) (2020-06-01)
 
 
