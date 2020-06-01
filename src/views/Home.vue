@@ -35,6 +35,45 @@
               </v-card-text>
           </v-col>
       </v-row>
+      <v-row>
+          <v-col cols="4">
+              <v-card
+                      class="mx-auto mx-4 my-12"
+              >
+                  <v-img
+                          height="250"
+                          :src="require('../assets/t1.jpg')"
+                  ></v-img>
+
+                  <v-card-title>Хотите, чтобы ваш ребёнок полюбил книги?</v-card-title>
+              </v-card>
+          </v-col>
+          <v-col cols="4">
+              <v-card
+                      class="mx-auto mx-4 my-12"
+              >
+                  <v-img
+                          height="250"
+                          :src="require('../assets/t2.jpg')"
+                  ></v-img>
+
+                  <v-card-title>Чтобы его речь была чистой и ясной?</v-card-title>
+              </v-card>
+          </v-col>
+          <v-col cols="4">
+              <v-card
+                      class="mx-auto mx-4 my-12"
+              >
+                  <v-img
+                          height="250"
+                          :src="require('../assets/t3.jpg')"
+                  ></v-img>
+
+                  <v-card-title>Хотите сделать это дело семейной традицией?</v-card-title>
+              </v-card>
+          </v-col>
+      </v-row>
+      <!--
       <v-parallax
               :height="800"
               :src="require('../assets/t1.jpg')"
@@ -43,8 +82,8 @@
                   align="center"
                   justify="center"
           >
-              <v-col class="text-center" cols="12">
-                  <h1 class="display-1 font-weight-thin mb-4" style="color: rgba(236, 240, 241, 0.9)">Хотите, чтобы ваш ребёнок полюбил книги?</h1>
+              <v-col class="text-center articles" cols="12">
+                  <h1 class="display-1 font-weight-thin mb-4" style="color: rgba(40, 40, 40, 0.9)">Хотите, чтобы ваш ребёнок полюбил книги?</h1>
               </v-col>
           </v-row>
       </v-parallax>
@@ -56,24 +95,25 @@
                   align="center"
                   justify="center"
           >
-              <v-col class="text-center" cols="12">
-                  <h1 class="display-1 font-weight-thin mb-4" style="color: rgba(236, 240, 241, 0.9)">Чтобы его речь была чистой и ясной?</h1>
+              <v-col class="text-center articles" cols="12">
+                  <h1 class="display-1 font-weight-thin mb-4" style="color: rgba(40, 40, 40, 0.9)">Чтобы его речь была чистой и ясной?</h1>
               </v-col>
           </v-row>
       </v-parallax>
       <v-parallax
               :height="800"
               :src="require('../assets/t3.jpg')"
+              style="backdrop-filter: blur(10px)"
       >
           <v-row
                   align="center"
                   justify="center"
           >
-              <v-col class="text-center" cols="12">
-                  <h1 class="display-1 font-weight-thin mb-4" style="color: rgba(236, 240, 241, 0.9)">Хотите сделать это дело семейной традицией?</h1>
+              <v-col class="text-center articles" cols="12">
+                  <h1 class="display-1 font-weight-thin mb-4" style="color: rgba(40, 40, 40, 0.9)">Хотите сделать это дело семейной традицией?</h1>
               </v-col>
           </v-row>
-      </v-parallax>
+      </v-parallax>-->
   </v-container>
 </template>
 
@@ -97,6 +137,15 @@ export default {
   @font-face {
     font-family: "RobotoCondensed-Regular";
     src: url("../assets/fonts/RobotoCondensed-Regular.ttf") format("ttf");
+  }
+
+  @font-face {
+  font-family: "RobotoCondensed-Bold";
+      src: url("../assets/fonts/RobotoCondensed-Bold.ttf") format("ttf");
+  }
+
+  .articles {
+      font-family: "RobotoCondensed-Bold", sans-serif !important;
   }
 
   .greet {
