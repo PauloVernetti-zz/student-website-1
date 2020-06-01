@@ -1,3 +1,19 @@
+## [1.2.2](https://github.com/PauloVernetti/student-website-1/compare/v1.2.1...v1.2.2) (2020-06-01)
+
+
+### Bug Fixes
+
+* **release:** adding docs folder to the release config ([a7e692e](https://github.com/PauloVernetti/student-website-1/commit/a7e692e78c275a6caaad8b8616002b7151f060b9))
+* **release:** removing folder docs ([a1be841](https://github.com/PauloVernetti/student-website-1/commit/a1be8411cc68ea4728fb398216a1b3962856352b))
+
+## [1.2.2](https://github.com/PauloVernetti/student-website-1/compare/v1.2.1...v1.2.2) (2020-06-01)
+
+
+### Bug Fixes
+
+* **release:** adding docs folder to the release config ([a7e692e](https://github.com/PauloVernetti/student-website-1/commit/a7e692e78c275a6caaad8b8616002b7151f060b9))
+* **release:** removing folder docs ([a1be841](https://github.com/PauloVernetti/student-website-1/commit/a1be8411cc68ea4728fb398216a1b3962856352b))
+
 ## [1.2.1](https://github.com/PauloVernetti/student-website-1/compare/v1.2.0...v1.2.1) (2020-06-01)
 
 
