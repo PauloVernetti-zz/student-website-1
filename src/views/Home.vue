@@ -35,7 +35,7 @@
               </v-card-text>
           </v-col>
       </v-row>
-      <v-row>
+      <v-row class="hidden-sm-and-down">
           <v-col cols="4">
               <v-card
                       class="mx-auto mx-4 my-12"
@@ -73,6 +73,44 @@
               </v-card>
           </v-col>
       </v-row>
+      <v-col cols="12" class="hidden-md-and-up">
+          <v-col cols="12">
+              <v-card
+                      class="mx-auto mx-4 my-12"
+              >
+                  <v-img
+                          height="250"
+                          :src="require('../assets/t1.jpg')"
+                  ></v-img>
+
+                  <v-card-title>Хотите, чтобы ваш ребёнок полюбил книги?</v-card-title>
+              </v-card>
+          </v-col>
+          <v-col cols="12">
+              <v-card
+                      class="mx-auto mx-4 my-12"
+              >
+                  <v-img
+                          height="250"
+                          :src="require('../assets/t2.jpg')"
+                  ></v-img>
+
+                  <v-card-title>Чтобы его речь была чистой и ясной?</v-card-title>
+              </v-card>
+          </v-col>
+          <v-col cols="12">
+              <v-card
+                      class="mx-auto mx-4 my-12"
+              >
+                  <v-img
+                          height="250"
+                          :src="require('../assets/t3.jpg')"
+                  ></v-img>
+
+                  <v-card-title>Хотите сделать это дело семейной традицией?</v-card-title>
+              </v-card>
+          </v-col>
+      </v-col>
       <!--
       <v-parallax
               :height="800"
