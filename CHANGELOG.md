@@ -1,3 +1,17 @@
+## [1.2.1](https://github.com/PauloVernetti/student-website-1/compare/v1.2.0...v1.2.1) (2020-06-01)
+
+
+### Bug Fixes
+
+* **release:** adding npm plugin to fix deploy ([abd02ea](https://github.com/PauloVernetti/student-website-1/commit/abd02ea19c364f8dc2d02183102d084c784f7325))
+
+## [1.2.1](https://github.com/PauloVernetti/student-website-1/compare/v1.2.0...v1.2.1) (2020-06-01)
+
+
+### Bug Fixes
+
+* **release:** adding npm plugin to fix deploy ([abd02ea](https://github.com/PauloVernetti/student-website-1/commit/abd02ea19c364f8dc2d02183102d084c784f7325))
+
 # [1.2.0](https://github.com/PauloVernetti/student-website-1/compare/v1.1.2...v1.2.0) (2020-06-01)
 
 
