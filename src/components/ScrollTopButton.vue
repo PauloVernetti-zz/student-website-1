@@ -38,6 +38,6 @@
 
 <style lang="less" scoped>
 .ScrollTopButton {
-    z-index: 100000000;
+    z-index: 100000010;
 }
 </style>

@@ -1,5 +1,5 @@
 <template>
-  <v-app dark>
+  <v-app dark style="padding: 0 !important;">
     <scroll-top-button />
     <v-app-bar
             elevation="0"
@@ -13,10 +13,10 @@
               align="center"
               justify="center"
       >
-        <v-col v-if="$vuetify.breakpoint.smAndDown" class="text-right hidden-md-and-up">
+        <v-col class="text-right hidden-md-and-up">
           <v-app-bar-nav-icon @click="drawer = !drawer" ></v-app-bar-nav-icon>
         </v-col>
-        <v-col v-if="$vuetify.breakpoint.mdAndUp" class="text-sm-center hidden-sm-and-down" cols="6">
+        <v-col class="text-sm-center hidden-sm-and-down" cols="6">
           <v-btn
                   fab
                   color="#597da3"
@@ -49,9 +49,8 @@
             fixed
             dark
             right
-            clipped
             color="rgba(33, 140, 116, 0.45)"
-            style="z-index: 1000000004;"
+            style="z-index: 1000000005;"
     >
       <v-list>
         <v-list-item
@@ -167,6 +166,7 @@ export default {
   }
 
   html, body {
+    padding: 0 !important;
     font-family: "RobotoCondensed-Regular", sans-serif;
 }
   .footer-content {

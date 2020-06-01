@@ -4,7 +4,6 @@
                 align="center"
                 justify="center"
                 class="hidden-sm-and-down"
-                v-if="!$vuetify.breakpoint.smAndDown"
         >
             <v-col class="d-flex justify-end align-center" cols="4">
                 <v-btn
