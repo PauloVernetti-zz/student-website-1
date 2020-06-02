@@ -129,9 +129,9 @@ export default {
         },
         {
           id: 1,
-          icon: "mdi-help",
-          text: "Чаво",
-          link: "/about"
+          icon: "mdi-teach",
+          text: "Учителям",
+          link: "/teachers"
         },
         {
           id: 2,

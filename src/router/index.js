@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import Forbiden from '../views/Forbiden.vue'
+import Teachers from "../views/Teachers";
 
 Vue.use(VueRouter)
 
@@ -11,6 +12,11 @@ Vue.use(VueRouter)
     name: 'Home',
     component: Home
   },
+    {
+      path: "/teachers",
+      name: "Teachers",
+      component: Teachers
+    },
   {
     path: '/about',
     name: 'About',

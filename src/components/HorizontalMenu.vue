@@ -9,9 +9,9 @@
                 <v-btn
                         class="white--text mx-4"
                         color="rgba(39, 174, 96, 0.75)"
-                        to="/about"
+                        to="/teachers"
                 >
-                    <v-icon left>mdi-help</v-icon> Чаво
+                    <v-icon left>mdi-teach</v-icon> Учителям
                 </v-btn>
                 <v-btn
                         class="white--text mx-4"
