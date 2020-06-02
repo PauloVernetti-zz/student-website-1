@@ -112,7 +112,6 @@
                           :src="require('../assets/t3.jpg')"
                           alt="Читающая семья"
                   ></v-img>
-
                   <v-card-title>Хотите сделать это дело семейной традицией?</v-card-title>
               </v-card>
           </v-col>
