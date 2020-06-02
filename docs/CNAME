@@ -1,5 +1,1 @@
-$ dig victoria-kamaletdinova.online +noall +answer
-> victoria-kamaletdinova.online     3600    IN A     185.199.108.153
-> victoria-kamaletdinova.online     3600    IN A     185.199.109.153
-> victoria-kamaletdinova.online     3600    IN A     185.199.110.153
-> victoria-kamaletdinova.online     3600    IN A     185.199.111.153
+victoria-kamaletdinova.online
