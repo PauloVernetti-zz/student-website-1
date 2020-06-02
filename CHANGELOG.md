@@ -1,3 +1,17 @@
+# [1.4.0](https://github.com/PauloVernetti/student-website-1/compare/v1.3.1...v1.4.0) (2020-06-02)
+
+
+### Features
+
+* **Pages:** adding teachers page ([96c0b94](https://github.com/PauloVernetti/student-website-1/commit/96c0b9477d1962d81d8a7b93ac0c3539901dfe1b))
+
+# [1.4.0](https://github.com/PauloVernetti/student-website-1/compare/v1.3.1...v1.4.0) (2020-06-02)
+
+
+### Features
+
+* **Pages:** adding teachers page ([96c0b94](https://github.com/PauloVernetti/student-website-1/commit/96c0b9477d1962d81d8a7b93ac0c3539901dfe1b))
+
 ## [1.3.1](https://github.com/PauloVernetti/student-website-1/compare/v1.3.0...v1.3.1) (2020-06-01)
 
 
