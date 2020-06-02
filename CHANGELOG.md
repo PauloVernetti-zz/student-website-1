@@ -1,3 +1,21 @@
+## [1.6.2](https://github.com/PauloVernetti/student-website-1/compare/v1.6.1...v1.6.2) (2020-06-02)
+
+
+### Bug Fixes
+
+* **CPS:** content security policy [skip-ci] ([b32a4d1](https://github.com/PauloVernetti/student-website-1/commit/b32a4d186010a09e5e263ae753c62378d58732c8))
+* **CSP:** fixing content security policy ([79801eb](https://github.com/PauloVernetti/student-website-1/commit/79801eb18ae122c779f19dd3b28cfdc387c1138d))
+* **URL:** fixing source files url ([784f253](https://github.com/PauloVernetti/student-website-1/commit/784f25375c8fc651151fa83f8bb67cad056188cd))
+
+## [1.6.2](https://github.com/PauloVernetti/student-website-1/compare/v1.6.1...v1.6.2) (2020-06-02)
+
+
+### Bug Fixes
+
+* **CPS:** content security policy [skip-ci] ([b32a4d1](https://github.com/PauloVernetti/student-website-1/commit/b32a4d186010a09e5e263ae753c62378d58732c8))
+* **CSP:** fixing content security policy ([79801eb](https://github.com/PauloVernetti/student-website-1/commit/79801eb18ae122c779f19dd3b28cfdc387c1138d))
+* **URL:** fixing source files url ([784f253](https://github.com/PauloVernetti/student-website-1/commit/784f25375c8fc651151fa83f8bb67cad056188cd))
+
 ## [1.6.1](https://github.com/PauloVernetti/student-website-1/compare/v1.6.0...v1.6.1) (2020-06-02)
 
 
