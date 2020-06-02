@@ -1,3 +1,17 @@
+# [1.6.0](https://github.com/PauloVernetti/student-website-1/compare/v1.5.0...v1.6.0) (2020-06-02)
+
+
+### Features
+
+* **SEO:** seo optimization update ([b5fa2c5](https://github.com/PauloVernetti/student-website-1/commit/b5fa2c5b69d6ebb19e7dee1cb9a5df3dc0b56835))
+
+# [1.6.0](https://github.com/PauloVernetti/student-website-1/compare/v1.5.0...v1.6.0) (2020-06-02)
+
+
+### Features
+
+* **SEO:** seo optimization update ([b5fa2c5](https://github.com/PauloVernetti/student-website-1/commit/b5fa2c5b69d6ebb19e7dee1cb9a5df3dc0b56835))
+
 # [1.5.0](https://github.com/PauloVernetti/student-website-1/compare/v1.4.0...v1.5.0) (2020-06-02)
 
 
