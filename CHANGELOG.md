@@ -1,3 +1,17 @@
+## [1.3.1](https://github.com/PauloVernetti/student-website-1/compare/v1.3.0...v1.3.1) (2020-06-01)
+
+
+### Bug Fixes
+
+* **Responsive:** adding responsiveness to article cards ([c55b548](https://github.com/PauloVernetti/student-website-1/commit/c55b5486e25f234c0ddc402f60a8d31f7d7f7171))
+
+## [1.3.1](https://github.com/PauloVernetti/student-website-1/compare/v1.3.0...v1.3.1) (2020-06-01)
+
+
+### Bug Fixes
+
+* **Responsive:** adding responsiveness to article cards ([c55b548](https://github.com/PauloVernetti/student-website-1/commit/c55b5486e25f234c0ddc402f60a8d31f7d7f7171))
+
 # [1.3.0](https://github.com/PauloVernetti/student-website-1/compare/v1.2.2...v1.3.0) (2020-06-01)
 
 
