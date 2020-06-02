@@ -43,6 +43,7 @@
                   <v-img
                           height="250"
                           :src="require('../assets/t1.jpg')"
+                          alt="Девочка читает"
                   ></v-img>
 
                   <v-card-title>Хотите, чтобы ваш ребёнок полюбил книги?</v-card-title>
@@ -55,6 +56,7 @@
                   <v-img
                           height="250"
                           :src="require('../assets/t2.jpg')"
+                          alt="Девочка тренирует свою речь"
                   ></v-img>
 
                   <v-card-title>Чтобы его речь была чистой и ясной?</v-card-title>
@@ -67,6 +69,7 @@
                   <v-img
                           height="250"
                           :src="require('../assets/t3.jpg')"
+                          alt="Читающая книгу семья"
                   ></v-img>
 
                   <v-card-title>Хотите сделать это дело семейной традицией?</v-card-title>
@@ -81,6 +84,7 @@
                   <v-img
                           height="250"
                           :src="require('../assets/t1.jpg')"
+                          alt="Девочка читает"
                   ></v-img>
 
                   <v-card-title>Хотите, чтобы ваш ребёнок полюбил книги?</v-card-title>
@@ -93,6 +97,7 @@
                   <v-img
                           height="250"
                           :src="require('../assets/t2.jpg')"
+                          alt="Девочка тренирует свою речь"
                   ></v-img>
 
                   <v-card-title>Чтобы его речь была чистой и ясной?</v-card-title>
@@ -105,6 +110,7 @@
                   <v-img
                           height="250"
                           :src="require('../assets/t3.jpg')"
+                          alt="Читающая семья"
                   ></v-img>
 
                   <v-card-title>Хотите сделать это дело семейной традицией?</v-card-title>
