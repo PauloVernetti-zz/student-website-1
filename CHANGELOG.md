@@ -1,3 +1,19 @@
+## [1.6.3](https://github.com/PauloVernetti/student-website-1/compare/v1.6.2...v1.6.3) (2020-06-02)
+
+
+### Bug Fixes
+
+* **CNAME:** adding CNAME file to public folder ([6ceb401](https://github.com/PauloVernetti/student-website-1/commit/6ceb401a95d490a27a73788ce2003755a5277f36))
+* **file:** fixing some commited files ([b772d8f](https://github.com/PauloVernetti/student-website-1/commit/b772d8f855dfdae3f9c97d1aaaffa51c7291daa6))
+
+## [1.6.3](https://github.com/PauloVernetti/student-website-1/compare/v1.6.2...v1.6.3) (2020-06-02)
+
+
+### Bug Fixes
+
+* **CNAME:** adding CNAME file to public folder ([6ceb401](https://github.com/PauloVernetti/student-website-1/commit/6ceb401a95d490a27a73788ce2003755a5277f36))
+* **file:** fixing some commited files ([b772d8f](https://github.com/PauloVernetti/student-website-1/commit/b772d8f855dfdae3f9c97d1aaaffa51c7291daa6))
+
 ## [1.6.2](https://github.com/PauloVernetti/student-website-1/compare/v1.6.1...v1.6.2) (2020-06-02)
 
 
