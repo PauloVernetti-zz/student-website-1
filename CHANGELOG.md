@@ -1,3 +1,17 @@
+# [1.5.0](https://github.com/PauloVernetti/student-website-1/compare/v1.4.0...v1.5.0) (2020-06-02)
+
+
+### Features
+
+* **Pages:** adding parents page ([763bf99](https://github.com/PauloVernetti/student-website-1/commit/763bf99a8ce500f492357fb00cdf3fe2ba3c78b4))
+
+# [1.5.0](https://github.com/PauloVernetti/student-website-1/compare/v1.4.0...v1.5.0) (2020-06-02)
+
+
+### Features
+
+* **Pages:** adding parents page ([763bf99](https://github.com/PauloVernetti/student-website-1/commit/763bf99a8ce500f492357fb00cdf3fe2ba3c78b4))
+
 # [1.4.0](https://github.com/PauloVernetti/student-website-1/compare/v1.3.1...v1.4.0) (2020-06-02)
 
 
