@@ -3,7 +3,7 @@
         <v-row
                 align="center"
                 justify="center"
-                class="hidden-sm-and-down"
+                class="hidden-md-and-down"
         >
             <v-col class="d-flex justify-end align-center" cols="4">
                 <v-btn
@@ -26,9 +26,9 @@
                 <v-btn
                         class="white--text mx-4"
                         color="rgba(41, 128, 185, 0.75)"
-                        to="/about"
+                        to="/parents"
                 >
-                    <v-icon left>mdi-help</v-icon> Чаво
+                    <v-icon left>mdi-human-male-boy</v-icon> Родителям
                 </v-btn>
                 <v-btn
                         class="white--text mx-4"

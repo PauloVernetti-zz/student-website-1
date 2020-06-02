@@ -13,10 +13,10 @@
               align="center"
               justify="center"
       >
-        <v-col class="text-right hidden-md-and-up">
+        <v-col class="text-right hidden-lg-and-up">
           <v-app-bar-nav-icon @click="drawer = !drawer" ></v-app-bar-nav-icon>
         </v-col>
-        <v-col class="text-sm-center hidden-sm-and-down" cols="6">
+        <v-col class="text-sm-center hidden-md-and-down" cols="6">
           <v-btn
                   fab
                   color="#597da3"
@@ -135,9 +135,9 @@ export default {
         },
         {
           id: 2,
-          icon: "mdi-help",
-          text: "Чаво",
-          link: "/about"
+          icon: "mdi-human-male-boy",
+          text: "Родителям",
+          link: "/parents"
         },
         {
           id: 3,
