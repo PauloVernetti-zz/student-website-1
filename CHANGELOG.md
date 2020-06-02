@@ -1,3 +1,17 @@
+## [1.6.4](https://github.com/PauloVernetti/student-website-1/compare/v1.6.3...v1.6.4) (2020-06-02)
+
+
+### Bug Fixes
+
+* **url:** fixing sources url ([27bb41f](https://github.com/PauloVernetti/student-website-1/commit/27bb41fdab36420c94f056a52b6c526d82526d72))
+
+## [1.6.4](https://github.com/PauloVernetti/student-website-1/compare/v1.6.3...v1.6.4) (2020-06-02)
+
+
+### Bug Fixes
+
+* **url:** fixing sources url ([27bb41f](https://github.com/PauloVernetti/student-website-1/commit/27bb41fdab36420c94f056a52b6c526d82526d72))
+
 ## [1.6.3](https://github.com/PauloVernetti/student-website-1/compare/v1.6.2...v1.6.3) (2020-06-02)
 
 
