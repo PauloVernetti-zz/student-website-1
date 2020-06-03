@@ -69,21 +69,21 @@
         </v-list-item>
       </v-list>
     </v-navigation-drawer>
-    <v-content>
+    <v-content itemscope itemtype="http://schema.org/Person">
       <v-parallax style="z-index: 1000000000;" :src="require('./assets/background.jpg')">
         <v-row
                 align="center"
                 justify="center"
         >
           <v-col class="text-center" cols="12">
-            <h1 class="display-1 font-weight-thin mb-4" style="rgba(236, 240, 241, 0.75)">Виктория Камалетдинова</h1>
-            <h4 class="subtitle-1">Учитель начальных классов</h4>
+            <h1 itemprop="name" class="display-1 font-weight-thin mb-4" style="rgba(236, 240, 241, 0.75)">Виктория Камалетдинова</h1>
+            <h4 itemprop="jobTitle" class="subtitle-1">Учитель начальных классов</h4>
           </v-col>
         </v-row>
       </v-parallax>
       <div class="avatar-box">
         <v-avatar height="300px" width="300px">
-          <v-img :src="require('./assets/photo.jpg')" />
+          <v-img itemprop="image" :src="require('./assets/photo.jpg')" />
         </v-avatar>
       </div>
       <router-view />
