@@ -1,3 +1,17 @@
+## [1.8.1](https://github.com/PauloVernetti/student-website-1/compare/v1.8.0...v1.8.1) (2020-06-03)
+
+
+### Bug Fixes
+
+* **SEO:** adding og:image meta ([2f14e28](https://github.com/PauloVernetti/student-website-1/commit/2f14e28c3b65cb4bf65703ad004832392e06029c))
+
+## [1.8.1](https://github.com/PauloVernetti/student-website-1/compare/v1.8.0...v1.8.1) (2020-06-03)
+
+
+### Bug Fixes
+
+* **SEO:** adding og:image meta ([2f14e28](https://github.com/PauloVernetti/student-website-1/commit/2f14e28c3b65cb4bf65703ad004832392e06029c))
+
 # [1.8.0](https://github.com/PauloVernetti/student-website-1/compare/v1.7.0...v1.8.0) (2020-06-03)
 
 
