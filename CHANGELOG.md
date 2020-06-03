@@ -1,3 +1,19 @@
+# [1.8.0](https://github.com/PauloVernetti/student-website-1/compare/v1.7.0...v1.8.0) (2020-06-03)
+
+
+### Features
+
+* **Robots.txt:** adding robots.txt ([c9a8107](https://github.com/PauloVernetti/student-website-1/commit/c9a8107022b0de43acf9eb740c9787df172930cc))
+* **Robots.txt:** adding robots.txt ([0d04f80](https://github.com/PauloVernetti/student-website-1/commit/0d04f80fe6a5e3c0d8a40d6c9ad58869de85164e))
+
+# [1.8.0](https://github.com/PauloVernetti/student-website-1/compare/v1.7.0...v1.8.0) (2020-06-03)
+
+
+### Features
+
+* **Robots.txt:** adding robots.txt ([c9a8107](https://github.com/PauloVernetti/student-website-1/commit/c9a8107022b0de43acf9eb740c9787df172930cc))
+* **Robots.txt:** adding robots.txt ([0d04f80](https://github.com/PauloVernetti/student-website-1/commit/0d04f80fe6a5e3c0d8a40d6c9ad58869de85164e))
+
 # [1.7.0](https://github.com/PauloVernetti/student-website-1/compare/v1.6.4...v1.7.0) (2020-06-03)
 
 
