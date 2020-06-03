@@ -92,7 +92,7 @@ Vue.use(VueRouter)
           }
         ]
       }
-    }
+    },
     {
       path: "/404",
       name: "404",
