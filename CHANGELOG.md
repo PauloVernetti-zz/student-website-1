@@ -1,3 +1,17 @@
+# [1.7.0](https://github.com/PauloVernetti/student-website-1/compare/v1.6.4...v1.7.0) (2020-06-03)
+
+
+### Features
+
+* **Sitemap:** adding sitemap generation ([4c266a9](https://github.com/PauloVernetti/student-website-1/commit/4c266a917be6077ef5e9604bd15e7a7fc46f99fb))
+
+# [1.7.0](https://github.com/PauloVernetti/student-website-1/compare/v1.6.4...v1.7.0) (2020-06-03)
+
+
+### Features
+
+* **Sitemap:** adding sitemap generation ([4c266a9](https://github.com/PauloVernetti/student-website-1/commit/4c266a917be6077ef5e9604bd15e7a7fc46f99fb))
+
 ## [1.6.4](https://github.com/PauloVernetti/student-website-1/compare/v1.6.3...v1.6.4) (2020-06-02)
 
 
