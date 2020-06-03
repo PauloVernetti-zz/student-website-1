@@ -1,9 +1,9 @@
-import Vue from 'vue'
-import VueRouter from 'vue-router'
-import Home from '../views/Home.vue'
-import Forbiden from '../views/Forbiden.vue'
-import Teachers from "../views/Teachers";
-import Parents from "../views/Parents";
+import Vue from 'vue';
+import VueRouter from 'vue-router';
+import Home from '../views/Home.vue';
+import Forbiden from '../views/Forbiden.vue';
+import Teachers from "../views/Teachers.vue";
+import Parents from "../views/Parents.vue";
 
 Vue.use(VueRouter)
 
@@ -87,4 +87,6 @@ const router = new VueRouter({
   routes
 })
 
-export default router
+export {
+  router
+}

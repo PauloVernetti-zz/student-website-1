@@ -1,4 +1,4 @@
-<template xmlns:v-expansion-panel="http://www.w3.org/1999/html">
+<template>
     <v-container
             fluid
             class="d-flex flex-column"

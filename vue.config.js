@@ -1,3 +1,4 @@
 module.exports = {
-  outputDir: 'docs'
+  outputDir: 'docs',
+  crossorigin: "use-credentials"
 }

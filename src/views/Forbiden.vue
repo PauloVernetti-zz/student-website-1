@@ -24,7 +24,7 @@
 }
 
 .greet {
-    font-family: "RobotoCondensed-Regular", sans-serif;
+    font-family: 'RobotoCondensed-Regular', sans-serif;
     font-size: 1.2em;
     text-align: center;
 }

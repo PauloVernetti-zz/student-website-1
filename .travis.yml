@@ -7,5 +7,6 @@ jobs:
     - stage: Build and release
       before_script:
         - npm run build
+        - npm run sitemap
       after_success:
         - npm run release
