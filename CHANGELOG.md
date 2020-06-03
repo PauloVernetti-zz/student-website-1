@@ -1,3 +1,17 @@
+## [1.9.1](https://github.com/PauloVernetti/student-website-1/compare/v1.9.0...v1.9.1) (2020-06-03)
+
+
+### Bug Fixes
+
+* **CSP:** adding unsafe-inline to script-src ([c6dbfbe](https://github.com/PauloVernetti/student-website-1/commit/c6dbfbede3bc8c384285a360b48b064d0f44cc87))
+
+## [1.9.1](https://github.com/PauloVernetti/student-website-1/compare/v1.9.0...v1.9.1) (2020-06-03)
+
+
+### Bug Fixes
+
+* **CSP:** adding unsafe-inline to script-src ([c6dbfbe](https://github.com/PauloVernetti/student-website-1/commit/c6dbfbede3bc8c384285a360b48b064d0f44cc87))
+
 # [1.9.0](https://github.com/PauloVernetti/student-website-1/compare/v1.8.1...v1.9.0) (2020-06-03)
 
 
