@@ -4,6 +4,7 @@ import Home from '../views/Home.vue';
 import Forbiden from '../views/Forbiden.vue';
 import Teachers from "../views/Teachers.vue";
 import Parents from "../views/Parents.vue";
+import Students from "../views/Students";
 
 Vue.use(VueRouter)
 
@@ -74,6 +75,24 @@ Vue.use(VueRouter)
         ]
       }
     },
+    {
+      path: "/students",
+      name: "Students",
+      component: Students,
+      meta: {
+        title: 'Виктория Камалетдинова - Учителям',
+        metaTags: [
+          {
+            name: 'description',
+            content: 'Страница с информацией и материалами для учителям.'
+          },
+          {
+            property: 'og:description',
+            content: 'Страница с информацией и материалами для учителям.'
+          }
+        ]
+      }
+    }
     {
       path: "/404",
       name: "404",

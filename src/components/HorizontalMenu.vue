@@ -33,9 +33,9 @@
                 <v-btn
                         class="white--text mx-4"
                         color="rgba(155, 89, 182, 0.75)"
-                        to="/about"
+                        to="/students"
                 >
-                    <v-icon left>mdi-help</v-icon> Чаво
+                    <v-icon left>mdi-account-group</v-icon> Ученикам
                 </v-btn>
             </v-col>
         </v-row>

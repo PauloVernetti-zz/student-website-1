@@ -141,9 +141,9 @@ export default {
         },
         {
           id: 3,
-          icon: "mdi-help",
-          text: "Чаво",
-          link: "/about"
+          icon: "mdi-account-group",
+          text: "Ученикам",
+          link: "/students"
         }
       ]
     }
