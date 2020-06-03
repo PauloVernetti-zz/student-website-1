@@ -1,3 +1,17 @@
+# [1.9.0](https://github.com/PauloVernetti/student-website-1/compare/v1.8.1...v1.9.0) (2020-06-03)
+
+
+### Features
+
+* **SEO:** adding Yandex.Metric ([e296ae5](https://github.com/PauloVernetti/student-website-1/commit/e296ae5729136ffeb905871159522f5390bf68cf))
+
+# [1.9.0](https://github.com/PauloVernetti/student-website-1/compare/v1.8.1...v1.9.0) (2020-06-03)
+
+
+### Features
+
+* **SEO:** adding Yandex.Metric ([e296ae5](https://github.com/PauloVernetti/student-website-1/commit/e296ae5729136ffeb905871159522f5390bf68cf))
+
 ## [1.8.1](https://github.com/PauloVernetti/student-website-1/compare/v1.8.0...v1.8.1) (2020-06-03)
 
 
