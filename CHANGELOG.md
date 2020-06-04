@@ -1,3 +1,17 @@
+## [1.11.1](https://github.com/PauloVernetti/student-website-1/compare/v1.11.0...v1.11.1) (2020-06-04)
+
+
+### Bug Fixes
+
+* deleting copyright ([0ef1b1e](https://github.com/PauloVernetti/student-website-1/commit/0ef1b1e5fb257d6d91d9da8b2ea7df6eb911e72b))
+
+## [1.11.1](https://github.com/PauloVernetti/student-website-1/compare/v1.11.0...v1.11.1) (2020-06-04)
+
+
+### Bug Fixes
+
+* deleting copyright ([0ef1b1e](https://github.com/PauloVernetti/student-website-1/commit/0ef1b1e5fb257d6d91d9da8b2ea7df6eb911e72b))
+
 # [1.11.0](https://github.com/PauloVernetti/student-website-1/compare/v1.10.0...v1.11.0) (2020-06-04)
 
 
