@@ -4,8 +4,8 @@ import Home from '../views/Home.vue';
 import Forbiden from '../views/Forbiden.vue';
 import Teachers from "../views/Teachers.vue";
 import Parents from "../views/Parents.vue";
-import Students from "../views/Students";
-import Historical from "../views/Historical";
+import Students from "../views/Students.vue";
+import Historical from "../views/Historical.vue";
 
 Vue.use(VueRouter)
 
