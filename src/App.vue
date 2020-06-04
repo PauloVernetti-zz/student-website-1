@@ -100,7 +100,7 @@
                 cols="6"
                 class="text-center"
         >
-          {{ new Date().getFullYear() === 2016 ? "2016 ©" : "2016 - " + new Date().getFullYear() + " ©" }} Kenift Designs
+          <div style="width: 100px; height: 50px"></div>
         </v-col>
       </div>
     </v-footer>
