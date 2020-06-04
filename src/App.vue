@@ -30,6 +30,8 @@
                   fab
                   color="#E1306C"
                   class="mx-4 white--text"
+                  link
+                  href="https://www.instagram.com/vikuloveccc/"
           >
             <v-icon>mdi-instagram</v-icon>
           </v-btn>
