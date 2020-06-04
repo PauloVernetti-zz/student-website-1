@@ -96,15 +96,9 @@
       <div class="d-flex flex-row fill-height flex-fill justify-center align-center">
         <v-col
                 cols="6"
-                class="text-right"
+                class="text-center"
         >
-          {{ new Date().getFullYear() === 2016 ? "2016 ©" : "2016 - " + new Date().getFullYear() + " ©" }} Kenift Inc
-        </v-col>
-        <v-col
-                cols="6"
-                class="text-left"
-        >
-          Privacy Policy
+          {{ new Date().getFullYear() === 2016 ? "2016 ©" : "2016 - " + new Date().getFullYear() + " ©" }} Kenift Designs
         </v-col>
       </div>
     </v-footer>
@@ -144,6 +138,12 @@ export default {
           icon: "mdi-account-group",
           text: "Ученикам",
           link: "/students"
+        },
+        {
+          id: 4,
+          icon: "mdi-book-open-page-variant",
+          text: "Историческая страница",
+          link: "/historical"
         }
       ]
     }
@@ -159,10 +159,14 @@ export default {
 };
 </script>
 
-<style  scoped>
+<style>
   @font-face {
     font-family: "RobotoCondensed-Regular";
     src: url("assets/fonts/RobotoCondensed-Regular.ttf") format("ttf");
+  }
+
+  html > p {
+    text-indent: 20px;
   }
 
   html, body {

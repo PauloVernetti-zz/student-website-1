@@ -5,7 +5,6 @@
     >
         <horizontal-menu></horizontal-menu>
         <v-row
-                style="margin-top: 50px;"
                 justify="center"
                 align="start"
         >

@@ -162,8 +162,13 @@
 </template>
 
 <script>
+    import HorizontalMenu from "../components/HorizontalMenu";
+
     export default {
-        name: "Students"
+        name: "Students",
+        components: {
+            HorizontalMenu
+        }
     }
 </script>
 

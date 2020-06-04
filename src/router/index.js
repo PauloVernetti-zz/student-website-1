@@ -5,6 +5,7 @@ import Forbiden from '../views/Forbiden.vue';
 import Teachers from "../views/Teachers.vue";
 import Parents from "../views/Parents.vue";
 import Students from "../views/Students";
+import Historical from "../views/Historical";
 
 Vue.use(VueRouter)
 
@@ -80,15 +81,33 @@ Vue.use(VueRouter)
       name: "Students",
       component: Students,
       meta: {
-        title: 'Виктория Камалетдинова - Учителям',
+        title: 'Виктория Камалетдинова - Ученикам',
         metaTags: [
           {
             name: 'description',
-            content: 'Страница с информацией и материалами для учителям.'
+            content: 'Страница с информацией и материалами для учеников.'
           },
           {
             property: 'og:description',
-            content: 'Страница с информацией и материалами для учителям.'
+            content: 'Страница с информацией и материалами для учеников.'
+          }
+        ]
+      }
+    },
+    {
+      path: "/historical",
+      name: "Historical",
+      component: Historical,
+      meta: {
+        title: 'Виктория Камалетдинова - Историческая страница',
+        metaTags: [
+          {
+            name: 'description',
+            content: 'Страница с информацией и материалами из истории России.'
+          },
+          {
+            property: 'og:description',
+            content: 'Страница с информацией и материалами из истории России.'
           }
         ]
       }
