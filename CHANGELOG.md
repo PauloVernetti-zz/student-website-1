@@ -1,3 +1,17 @@
+# [1.11.0](https://github.com/PauloVernetti/student-website-1/compare/v1.10.0...v1.11.0) (2020-06-04)
+
+
+### Features
+
+* **Social:** adding link to instagram ([6442cfe](https://github.com/PauloVernetti/student-website-1/commit/6442cfe48df5170b078051b18b000c2da1c4ec39))
+
+# [1.11.0](https://github.com/PauloVernetti/student-website-1/compare/v1.10.0...v1.11.0) (2020-06-04)
+
+
+### Features
+
+* **Social:** adding link to instagram ([6442cfe](https://github.com/PauloVernetti/student-website-1/commit/6442cfe48df5170b078051b18b000c2da1c4ec39))
+
 # [1.10.0](https://github.com/PauloVernetti/student-website-1/compare/v1.9.1...v1.10.0) (2020-06-04)
 
 
