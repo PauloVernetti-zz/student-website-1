@@ -1,3 +1,31 @@
+# [1.10.0](https://github.com/PauloVernetti/student-website-1/compare/v1.9.1...v1.10.0) (2020-06-04)
+
+
+### Bug Fixes
+
+* **Pages:** fix pages imports for sitemap generation ([51d1584](https://github.com/PauloVernetti/student-website-1/commit/51d1584aec933eca429b420ddef89b2e75d90495))
+* **router:** fixing syntax ([077c32e](https://github.com/PauloVernetti/student-website-1/commit/077c32e15ff2036740fc4f9bfbe9a3033250baed))
+
+
+### Features
+
+* **Pages:** adding historical page ([475a6fa](https://github.com/PauloVernetti/student-website-1/commit/475a6fae6658ae4582b61cbc14cbbcf907c3614c))
+* **Pages:** adding students page ([9fcbfa2](https://github.com/PauloVernetti/student-website-1/commit/9fcbfa233ae3a5c505285bd1a421389b4259119a))
+
+# [1.10.0](https://github.com/PauloVernetti/student-website-1/compare/v1.9.1...v1.10.0) (2020-06-04)
+
+
+### Bug Fixes
+
+* **Pages:** fix pages imports for sitemap generation ([51d1584](https://github.com/PauloVernetti/student-website-1/commit/51d1584aec933eca429b420ddef89b2e75d90495))
+* **router:** fixing syntax ([077c32e](https://github.com/PauloVernetti/student-website-1/commit/077c32e15ff2036740fc4f9bfbe9a3033250baed))
+
+
+### Features
+
+* **Pages:** adding historical page ([475a6fa](https://github.com/PauloVernetti/student-website-1/commit/475a6fae6658ae4582b61cbc14cbbcf907c3614c))
+* **Pages:** adding students page ([9fcbfa2](https://github.com/PauloVernetti/student-website-1/commit/9fcbfa233ae3a5c505285bd1a421389b4259119a))
+
 ## [1.9.1](https://github.com/PauloVernetti/student-website-1/compare/v1.9.0...v1.9.1) (2020-06-03)
 
 
