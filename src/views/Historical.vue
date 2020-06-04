@@ -11,6 +11,12 @@
             <v-col
                     :cols="$vuetify.breakpoint.xsOnly ? '12' : $vuetify.breakpoint.smOnly ? '10' : $vuetify.breakpoint.mdOnly ? '8' : $vuetify.breakpoint.lgOnly ? '6' : '6'"
             >
+                <div class="d-flex flex-fill justify-center align-center flex-column">
+                    <p style="font-size: 1.2em;">
+                        Екатерина Великая
+                    </p>
+                </div>
+
                 <div class="d-flex flex-fill flex-column flex-sm-row">
                     <div class="d-flex flex-row justify-center align-center">
                         <v-img width="300px" style="margin: 7px 7px 7px 7px;" :src="require('../assets/1.jpg')"/>
