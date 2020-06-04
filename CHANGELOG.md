@@ -1,3 +1,17 @@
+## [1.11.2](https://github.com/PauloVernetti/student-website-1/compare/v1.11.1...v1.11.2) (2020-06-04)
+
+
+### Bug Fixes
+
+* adding historical name ([d98e93c](https://github.com/PauloVernetti/student-website-1/commit/d98e93c1381f0ba985d14b9e2df434d32e5a490f))
+
+## [1.11.2](https://github.com/PauloVernetti/student-website-1/compare/v1.11.1...v1.11.2) (2020-06-04)
+
+
+### Bug Fixes
+
+* adding historical name ([d98e93c](https://github.com/PauloVernetti/student-website-1/commit/d98e93c1381f0ba985d14b9e2df434d32e5a490f))
+
 ## [1.11.1](https://github.com/PauloVernetti/student-website-1/compare/v1.11.0...v1.11.1) (2020-06-04)
 
 
